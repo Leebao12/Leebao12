@@ -22,7 +22,7 @@
 - 🎓 I am a student majoring in Information Technology
 - 💻 I am interested in Web Development and Software Engineering
 - 🌱 I am currently learning HTML, CSS, JavaScript, C#, SQL Server
-- 📫 Email: ....@gmail.com
+- 📫 Email: bao446403@gmail.com
 
 ---
 
