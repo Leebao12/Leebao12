@@ -4,8 +4,25 @@
 <p align="center">
   <img src="https://your-banner-image-link" alt="banner" width="100%" />
 </p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=160&section=header&text=L%C3%AA%20Quang%20B%E1%BA%A3o&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20Progress%20%E2%80%94%20HUIT%20%7C%20Ho%20Chi%20Minh%20City&descAlignY=60&descSize=16" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?Tfont=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Backend+Developer+%7C+.NET+%26+C%23;Clean+Architecture+%7C+RESTful+API+Design;Data+Engineering+%7C+SQL+Server;Continuous+Learner+%7C+Problem+Solver)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Leebao12&color=58A6FF&style=flat-square&label=Profile+Views)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Leebao12?label=Followers&style=flat-square&color=58A6FF&logo=github)](https://github.com/Leebao12?tab=followers)
+
+</div>
+
+<br/>
+
+-----------
 
 ## 👨‍💻 About Me
 - 🎓 I am a student majoring in Information Technology
