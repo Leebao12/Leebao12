@@ -61,7 +61,7 @@
 - Description: Website nhà hàng phong cách Âu được xây dựng bằng HTML, CSS và JavaScript, gồm các trang chính như trang chủ, menu món ăn, chi tiết món, đặt bàn, đăng nhập/đăng ký, liên hệ và trang quản trị. Project tập trung vào giao diện hiện đại, dễ sử dụng và mô phỏng các chức năng cơ bản của một website nhà hàng. Repo hiện dùng HTML, JavaScript và CSS là các công nghệ chính.
 - Repo: [Xem project](https://github.com/Leebao12/Web_Nha_Hang_GENG.git)
 
-### 2. Project Name 2
+### 2. Đồ án Công nghệ.NET
 - Tech: C#, SQL Server, WPF
 - Description: Ứng dụng quản lý quán CoffeeTea được xây dựng bằng C#, WPF và SQL Server, hỗ trợ các chức năng quản lý nhân viên, nhà cung cấp, nhập hàng, kho nguyên liệu và theo dõi dữ liệu trong hệ thống. Project tập trung vào giao diện desktop, xử lý nghiệp vụ quản lý cơ bản và lưu trữ dữ liệu bằng cơ sở dữ liệu SQL Server.
 - Repo: [Xem project](https://github.com/Leebao12/Do_An_Congnghe.NET.git)
