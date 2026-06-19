@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://your-banner-image-link" alt="banner" width="100%" />
-</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=160&section=header&text=L%C3%AA%20Quang%20B%E1%BA%A3o&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20Progress%20%E2%80%94%20HUIT%20%7C%20Ho%20Chi%20Minh%20City&descAlignY=60&descSize=16" width="100%"/>
@@ -62,7 +59,7 @@
 ### 1. Website nhà hàng phong cách Âu
 - Tech: HTML, CSS, JavaScript
 - Description: Website nhà hàng phong cách Âu được xây dựng bằng HTML, CSS và JavaScript, gồm các trang chính như trang chủ, menu món ăn, chi tiết món, đặt bàn, đăng nhập/đăng ký, liên hệ và trang quản trị. Project tập trung vào giao diện hiện đại, dễ sử dụng và mô phỏng các chức năng cơ bản của một website nhà hàng. Repo hiện dùng HTML, JavaScript và CSS là các công nghệ chính.
-- Repo: [Xem project]([https://github.com/Leebao12/REPO](https://github.com/Leebao12/Web_Nha_Hang_GENG.git))
+- Repo: [Xem project]((https://github.com/Leebao12/Web_Nha_Hang_GENG.git))
 
 ### 2. Project Name 2
 - Tech: C#, SQL Server, WPF
