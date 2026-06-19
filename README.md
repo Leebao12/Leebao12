@@ -63,8 +63,8 @@
 
 ### 2. Project Name 2
 - Tech: C#, SQL Server, WPF
-- Description: Mô tả ngắn về project
-- Repo: [Xem project](https://github.com/Leebao12/REPO)
+- Description: Ứng dụng quản lý quán CoffeeTea được xây dựng bằng C#, WPF và SQL Server, hỗ trợ các chức năng quản lý nhân viên, nhà cung cấp, nhập hàng, kho nguyên liệu và theo dõi dữ liệu trong hệ thống. Project tập trung vào giao diện desktop, xử lý nghiệp vụ quản lý cơ bản và lưu trữ dữ liệu bằng cơ sở dữ liệu SQL Server.
+- Repo: [Xem project](https://github.com/Leebao12/Do_An_Congnghe.NET.git)
 
 ---
 
