@@ -59,10 +59,10 @@
 
 ## 📌 Highlight Projects
 
-### 1. Project Name 1
+### 1. Website nhà hàng phong cách Âu
 - Tech: HTML, CSS, JavaScript
-- Description: Mô tả ngắn về project
-- Repo: [Xem project](https://github.com/Leebao12/REPO)
+- Description: Website nhà hàng phong cách Âu được xây dựng bằng HTML, CSS và JavaScript, gồm các trang chính như trang chủ, menu món ăn, chi tiết món, đặt bàn, đăng nhập/đăng ký, liên hệ và trang quản trị. Project tập trung vào giao diện hiện đại, dễ sử dụng và mô phỏng các chức năng cơ bản của một website nhà hàng. Repo hiện dùng HTML, JavaScript và CSS là các công nghệ chính.
+- Repo: [Xem project]([https://github.com/Leebao12/REPO](https://github.com/Leebao12/Web_Nha_Hang_GENG.git))
 
 ### 2. Project Name 2
 - Tech: C#, SQL Server, WPF
