@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Le Quang Bao</h1>
-<h3 align="center">IT Student</h3>
-
 <p align="center">
   <img src="https://your-banner-image-link" alt="banner" width="100%" />
 </p>
