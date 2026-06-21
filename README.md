@@ -56,18 +56,18 @@
 
 ## 📌 Highlight Projects
 
-### 1. Đồ án Thiết kế Web website nhà hàng phong cách Âu
+### 1. European-Style Restaurant Website
 - Tech: HTML, CSS, JavaScript
-- Description: Website nhà hàng phong cách Âu được xây dựng bằng HTML, CSS và JavaScript, gồm các trang chính như trang chủ, menu món ăn, chi tiết món, đặt bàn, đăng nhập/đăng ký, liên hệ và trang quản trị. Project tập trung vào giao diện hiện đại, dễ sử dụng và mô phỏng các chức năng cơ bản của một website nhà hàng. Repo hiện dùng HTML, JavaScript và CSS là các công nghệ chính.
+- Description: A European-style restaurant website built with HTML, CSS, and JavaScript. The project includes main pages such as Home, Menu, Food Details, Table Reservation, Login/Register, Contact, and Admin Dashboard. It focuses on a modern, user-friendly interface and simulates the basic features of a restaurant website.
 - Repo: [Xem project](https://github.com/Leebao12/Web_Nha_Hang_GENG.git)
 
-### 2. Đồ án Công nghệ.NET Coffee&Tea
+### 2. Coffee & Tea Management System
 - Tech: C#, SQL Server, WPF
-- Description: Ứng dụng quản lý quán CoffeeTea được xây dựng bằng C#, WPF và SQL Server, hỗ trợ các chức năng quản lý nhân viên, nhà cung cấp, nhập hàng, kho nguyên liệu và theo dõi dữ liệu trong hệ thống. Project tập trung vào giao diện desktop, xử lý nghiệp vụ quản lý cơ bản và lưu trữ dữ liệu bằng cơ sở dữ liệu SQL Server.
+- Description: A desktop application for managing a Coffee & Tea shop, developed with C#, WPF, and SQL Server. The system supports features such as employee management, supplier management, inventory tracking, ingredient import, and data management. The project focuses on desktop UI design, basic business logic processing, and database storage using SQL Server.
 - Repo: [Xem project](https://github.com/Leebao12/Do_An_Congnghe.NET.git)
-### 3. Đồ án DSA Quản lý bãi xe AEON Tân Phú
+### 3. DSA Parking Lot Management System – AEON Tan Phu
 - Tech: C, Data Structures & Algorithms, Stack, File Handling
-- Description: Ứng dụng quản lý bãi xe mô phỏng hoạt động gửi xe, lấy xe và quản lý thông tin xe trong bãi. Dự án áp dụng cấu trúc dữ liệu Stack và các kiến thức DSA để xử lý dữ liệu, quản lý trạng thái xe và hỗ trợ thao tác tìm kiếm, thêm, xóa trong chương trình.
+- Description: A parking lot management application that simulates vehicle check-in, check-out, and vehicle information management. The project applies Stack data structure and DSA concepts to process data, manage vehicle status, and support basic operations such as searching, adding, and deleting records.
 - Repo:[Xem project](https://github.com/Leebao12/Do_An_DSA_QuanLyBaiXeAEON_Tan_Phu.git)
 
 ---
