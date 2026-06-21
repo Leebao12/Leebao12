@@ -66,10 +66,9 @@
 - Description: Ứng dụng quản lý quán CoffeeTea được xây dựng bằng C#, WPF và SQL Server, hỗ trợ các chức năng quản lý nhân viên, nhà cung cấp, nhập hàng, kho nguyên liệu và theo dõi dữ liệu trong hệ thống. Project tập trung vào giao diện desktop, xử lý nghiệp vụ quản lý cơ bản và lưu trữ dữ liệu bằng cơ sở dữ liệu SQL Server.
 - Repo: [Xem project](https://github.com/Leebao12/Do_An_Congnghe.NET.git)
 ### 3. Đồ án DSA Quản lý bãi xe AEON Tân Phú
--Tech:
--Description:
--Repo:[Xem project](https://github.com/Leebao12/Do_An_Congnghe.NET.git)
-
+- Tech: C, Data Structures & Algorithms, Stack, File Handling
+- Description: Ứng dụng quản lý bãi xe mô phỏng hoạt động gửi xe, lấy xe và quản lý thông tin xe trong bãi. Dự án áp dụng cấu trúc dữ liệu Stack và các kiến thức DSA để xử lý dữ liệu, quản lý trạng thái xe và hỗ trợ thao tác tìm kiếm, thêm, xóa trong chương trình.
+-Repo:[Xem project](https://github.com/Leebao12/Do_An_DSA_QuanLyBaiXeAEON_Tan_Phu.git)
 
 ---
 
