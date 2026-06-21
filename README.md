@@ -59,16 +59,16 @@
 ### 1. European-Style Restaurant Website
 - Tech: HTML, CSS, JavaScript
 - Description: A European-style restaurant website built with HTML, CSS, and JavaScript. The project includes main pages such as Home, Menu, Food Details, Table Reservation, Login/Register, Contact, and Admin Dashboard. It focuses on a modern, user-friendly interface and simulates the basic features of a restaurant website.
-- Repo: [Xem project](https://github.com/Leebao12/Web_Nha_Hang_GENG.git)
+- Repo: [View Project](https://github.com/Leebao12/Web_Nha_Hang_GENG.git)
 
 ### 2. Coffee & Tea Management System
 - Tech: C#, SQL Server, WPF
 - Description: A desktop application for managing a Coffee & Tea shop, developed with C#, WPF, and SQL Server. The system supports features such as employee management, supplier management, inventory tracking, ingredient import, and data management. The project focuses on desktop UI design, basic business logic processing, and database storage using SQL Server.
-- Repo: [Xem project](https://github.com/Leebao12/Do_An_Congnghe.NET.git)
+- Repo: [View Project](https://github.com/Leebao12/Do_An_Congnghe.NET.git)
 ### 3. DSA Parking Lot Management System – AEON Tan Phu
 - Tech: C, Data Structures & Algorithms, Stack, File Handling
 - Description: A parking lot management application that simulates vehicle check-in, check-out, and vehicle information management. The project applies Stack data structure and DSA concepts to process data, manage vehicle status, and support basic operations such as searching, adding, and deleting records.
-- Repo:[Xem project](https://github.com/Leebao12/Do_An_DSA_QuanLyBaiXeAEON_Tan_Phu.git)
+- Repo:[View Project](https://github.com/Leebao12/Do_An_DSA_QuanLyBaiXeAEON_Tan_Phu.git)
 
 ---
 
