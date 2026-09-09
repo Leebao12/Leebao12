@@ -86,4 +86,3 @@
     alt="Leebao Top Languages"
   />
 </p>
-tui đang có 1 cái readme cho phần thông tin của tui như này, tui muốn nó xịn hơn, đẹp hơn 
