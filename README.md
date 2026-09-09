@@ -1,28 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=190&section=header&text=L%C3%AA%20Quang%20B%E1%BA%A3o&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20HUIT%20%7C%20Ho%20Chi%20Minh%20City&descAlignY=58&descSize=16" width="100%"/>
+<!-- ===================== HERO BANNER ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;C%23+%26+.NET+Developer+in+Progress;Web+Development+%7C+Database+%7C+DSA;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0D1117,25:111827,55:1D4ED8,80:7C3AED,100:22D3EE&text=L%C3%AA%20Quang%20B%E1%BA%A3o&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Software%20Engineer%20in%20Progress%20%E2%80%A2%20HUIT%20%E2%80%A2%20Ho%20Chi%20Minh%20City&descSize=16&descAlignY=64&animation=fadeIn" width="100%"/>
+
+<!-- ===================== TYPING INTRO ===================== -->
+
+<br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&multiline=false&width=760&lines=%3E+Building+things+with+C%23+%26+.NET;%3E+Turning+ideas+into+working+software;%3E+Web+Development+%7C+Database+%7C+DSA;%3E+Learning.+Building.+Improving."
+alt="Typing SVG"
+/>
 
 <br/><br/>
+
+<!-- ===================== PROFILE BADGES ===================== -->
 
 <a href="https://github.com/Leebao12">
-<img src="https://img.shields.io/badge/GitHub-Leebao12-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Leebao12-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:bao446403@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-bao446403%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-bao446403%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=Leebao12&label=PROFILE+VIEWS&style=for-the-badge&color=7C3AED"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Leebao12&color=58A6FF&style=flat-square&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Leebao12?label=FOLLOWERS&style=flat-square&color=58A6FF&logo=github"/>
+<!-- ===================== MINI PROFILE CARD ===================== -->
+
+<table>
+<tr>
+
+<td width="55%" align="left" valign="middle">
+
+### 👋 Hi, I'm Lê Quang Bảo
+
+```csharp
+var developer = new
+{
+    Name = "Lê Quang Bảo",
+    Role = "IT Student",
+    Focus = "Software Engineering",
+    MainStack = "C# / .NET",
+    Location = "Ho Chi Minh City",
+    Goal = "Backend Software Engineer"
+};
+```
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+### ⚡ Current Focus
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== STATUS STRIP ===================== -->
+
+<table>
+<tr>
+<td align="center">
+
+### 🎯 Backend
+
+C# • .NET • SQL
+
+</td>
+
+<td align="center">
+
+### 🌐 Web
+
+HTML • CSS • JavaScript • PHP
+
+</td>
+
+<td align="center">
+
+### 🧠 Core
+
+DSA • OOP • Database
+
+</td>
+
+<td align="center">
+
+### 🚀 Goal
+
+Software Engineer
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== TECH ICONS ===================== -->
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,python,html,css,js,php,mysql,git,github,vscode,visualstudio&theme=dark&perline=14" />
+
+<br/><br/>
+
+### 💻 `code • build • learn • repeat`
 
 </div>
 
 ---
+
 
 ## 👨‍💻 About Me
 
