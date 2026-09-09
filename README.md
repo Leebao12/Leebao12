@@ -1,88 +1,315 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=160&section=header&text=L%C3%AA%20Quang%20B%E1%BA%A3o&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20Progress%20%E2%80%94%20HUIT%20%7C%20Ho%20Chi%20Minh%20City&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=190&section=header&text=L%C3%AA%20Quang%20B%E1%BA%A3o&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20HUIT%20%7C%20Ho%20Chi%20Minh%20City&descAlignY=58&descSize=16" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;C%23+%26+.NET+Developer+in+Progress;Web+Development+%7C+Database+%7C+DSA;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?Tfont=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Backend+Developer+%7C+.NET+%26+C%23;Clean+Architecture+%7C+RESTful+API+Design;Data+Engineering+%7C+SQL+Server;Continuous+Learner+%7C+Problem+Solver)](https://git.io/typing-svg)
+<br/><br/>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Leebao12&color=58A6FF&style=flat-square&label=Profile+Views)
+<a href="https://github.com/Leebao12">
+<img src="https://img.shields.io/badge/GitHub-Leebao12-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Leebao12?label=Followers&style=flat-square&color=58A6FF&logo=github)](https://github.com/Leebao12?tab=followers)
+<a href="mailto:bao446403@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-bao446403%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Leebao12&color=58A6FF&style=flat-square&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Leebao12?label=FOLLOWERS&style=flat-square&color=58A6FF&logo=github"/>
 
 </div>
 
-<br/>
-
------------
+---
 
 ## 👨‍💻 About Me
-- 🎓 I am a student majoring in Information Technology
-- 💻 I am interested in Web Development and Software Engineering
-- 🌱 I am currently learning HTML, CSS, JavaScript, C#, SQL Server
-- 📫 Email: bao446403@gmail.com
+
+```csharp
+public class Developer
+{
+    public string Name     => "Lê Quang Bảo";
+    public string Role     => "Information Technology Student";
+    public string Location => "Ho Chi Minh City, Vietnam";
+
+    public string[] Interests =>
+    {
+        "Software Engineering",
+        "Backend Development",
+        "Web Development",
+        "Database Systems"
+    };
+
+    public string CurrentFocus =>
+        "Improving my C#, .NET and software development skills";
+}
+```
+
+Hi there! I'm **Lê Quang Bảo**, an Information Technology student with a strong interest in **Software Engineering** and **Backend Development**.
+
+I enjoy turning ideas into working applications, designing databases, solving programming problems, and continuously improving the way I write and structure code.
+
+* 🎓 Studying **Information Technology**
+* 💻 Interested in **Software Engineering & Backend Development**
+* 🌐 Experienced with basic **Web Development**
+* 🗄️ Working with **SQL Server & MySQL**
+* 🧠 Learning **Data Structures & Algorithms**
+* 🌱 Currently improving my **C# / .NET** development skills
+* 🎯 Goal: Become a professional **Software Engineer**
 
 ---
 
-## 🛠 Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-</p>
+<div align="center">
 
-### Web Development
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
-</p>
+### 💻 Programming Languages
 
-### Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="50" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python&theme=dark" />
 
----
+<br/>
 
-## 📌 Highlight Projects
+### 🌐 Web Development
 
-### 1. European-Style Restaurant Website
-- Tech: HTML, CSS, JavaScript
-- Description: A European-style restaurant website built with HTML, CSS, and JavaScript. The project includes main pages such as Home, Menu, Food Details, Table Reservation, Login/Register, Contact, and Admin Dashboard. It focuses on a modern, user-friendly interface and simulates the basic features of a restaurant website.
-- Repo: [View Project](https://github.com/Leebao12/Web_Nha_Hang_GENG.git)
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
 
-### 2. Coffee & Tea Management System
-- Tech: C#, SQL Server, WPF
-- Description: A desktop application for managing a Coffee & Tea shop, developed with C#, WPF, and SQL Server. The system supports features such as employee management, supplier management, inventory tracking, ingredient import, and data management. The project focuses on desktop UI design, basic business logic processing, and database storage using SQL Server.
-- Repo: [View Project](https://github.com/Leebao12/Do_An_Congnghe.NET.git)
-### 3. DSA Parking Lot Management System – AEON Tan Phu
-- Tech: C, Data Structures & Algorithms, Stack, File Handling
-- Description: A parking lot management application that simulates vehicle check-in, check-out, and vehicle information management. The project applies Stack data structure and DSA concepts to process data, manage vehicle status, and support basic operations such as searching, adding, and deleting records.
-- Repo:[View Project](https://github.com/Leebao12/Do_An_DSA_QuanLyBaiXeAEON_Tan_Phu.git)
+<br/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+
+<br/>
+
+### ⚙️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leebao12&theme=tokyonight"
-    alt="Leebao GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leebao12&theme=tokyonight"
-    alt="Leebao Top Languages"
-  />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ European-Style Restaurant Website
+
+A modern restaurant website designed to simulate the core features of a real-world restaurant platform.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+**Key Features**
+
+* 🏠 Modern homepage
+* 🍽️ Food menu & details
+* 📅 Table reservation
+* 🔐 Login & registration
+* 📞 Contact page
+* ⚙️ Admin dashboard
+* 📱 Responsive interface
+
+<br/>
+
+<a href="https://github.com/Leebao12/Web_Nha_Hang_GENG">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☕ Coffee & Tea Management System
+
+A desktop application developed to manage the daily operations of a Coffee & Tea shop.
+
+**Tech Stack**
+
+`C#` `WPF` `SQL Server`
+
+**Key Features**
+
+* 👥 Employee management
+* 🚚 Supplier management
+* 📦 Inventory tracking
+* 🧾 Ingredient import
+* 🗄️ SQL Server database
+* 🖥️ Desktop management UI
+
+<br/>
+
+<a href="https://github.com/Leebao12/Do_An_Congnghe.NET">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 AEON Tan Phu Parking Management System
+
+A parking lot management application built to apply **Data Structures & Algorithms** to a practical management problem.
+
+**Tech Stack**
+
+`C` `Data Structures` `File Handling`
+
+**Key Features**
+
+* 🚘 Vehicle check-in
+* 🚪 Vehicle check-out
+* 🔎 Vehicle searching
+* ➕ Add & remove records
+* 📚 Stack data structure
+* 💾 File-based data storage
+
+<br/>
+
+<a href="https://github.com/Leebao12/Do_An_DSA_QuanLyBaiXeAEON_Tan_Phu">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 Cinema Booking System
+
+A web-based cinema ticket booking system developed as an Open Source Programming course project.
+
+**Tech Stack**
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+**Planned Features**
+
+* 🎞️ Movie management
+* 🕐 Showtime management
+* 💺 Seat selection
+* 🎫 Ticket booking
+* 👤 User authentication
+* 🛡️ Role-based access
+* ⚙️ Admin management
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-F7B93E?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+|      Technology     | Focus                             |
+| :-----------------: | :-------------------------------- |
+|   🔷 **C# / .NET**  | Backend & Application Development |
+|     🗄️ **SQL**     | Database Design & Queries         |
+|  🌐 **JavaScript**  | Web Development                   |
+|  🐘 **PHP & MySQL** | Dynamic Web Applications          |
+|      🧠 **DSA**     | Problem Solving & Algorithms      |
+| 🔧 **Git & GitHub** | Version Control                   |
+
+</div>
+
+---
+
+## 🎯 My Developer Journey
+
+```text
+Programming Fundamentals
+          │
+          ▼
+ Data Structures & Algorithms
+          │
+          ▼
+      C# / .NET
+          │
+          ▼
+    Database Systems
+          │
+          ▼
+    Backend Development
+          │
+          ▼
+    RESTful Web APIs
+          │
+          ▼
+   Software Engineering
+          │
+          ▼
+      Keep Learning 🚀
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leebao12&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leebao12&theme=tokyonight" />
+&nbsp;
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leebao12&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leebao12&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Leebao12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+I'm always open to learning, collaboration, and new opportunities in software development.
+
+<br/><br/>
+
+<a href="mailto:bao446403@gmail.com">
+<img src="https://img.shields.io/badge/Email-bao446403%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Leebao12">
+<img src="https://img.shields.io/badge/GitHub-Leebao12-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💬 *"Keep learning. Keep building. Keep improving."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
