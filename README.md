@@ -2,8 +2,7 @@
 
 <!-- ===================== HERO BANNER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0D1117,25:111827,55:1D4ED8,80:7C3AED,100:22D3EE&text=L%C3%AA%20Quang%20B%E1%BA%A3o&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Software%20Engineer%20in%20Progress%20%E2%80%A2%20HUIT%20%E2%80%A2%20Ho%20Chi%20Minh%20City&descSize=16&descAlignY=64&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:172554,70:2563EB,100:38BDF8&height=220&section=header&text=L%C3%AA%20Quang%20B%E1%BA%A3o&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%7C%20C%23%20%26%20.NET%20%7C%20Software%20Engineer%20in%20Progress&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 <!-- ===================== TYPING INTRO ===================== -->
 
 <br/>
