@@ -18,36 +18,11 @@
 
 -----------
 
-👨‍💻 About Me
-public class Developer
-{
-    public string Name     => "Lê Quang Bảo";
-    public string Role     => "Information Technology Student";
-    public string Location => "Ho Chi Minh City, Vietnam";
-
-    public string[] Interests =>
-    {
-        "Software Engineering",
-        "Backend Development",
-        "Web Development",
-        "Database Systems"
-    };
-
-    public string CurrentFocus =>
-        "Improving my C#, .NET and software development skills";
-}
-
-Hi there! I'm Lê Quang Bảo, an Information Technology student with a strong interest in Software Engineering and Backend Development.
-
-I enjoy turning ideas into working applications, designing databases, solving programming problems, and continuously improving the way I write and structure code.
-
-🎓 Studying Information Technology
-💻 Interested in Software Engineering & Backend Development
-🌐 Experienced with basic Web Development
-🗄️ Working with SQL Server & MySQL
-🧠 Learning Data Structures & Algorithms
-🌱 Currently improving my C# / .NET development skills
-🎯 Goal: Become a professional Software Engineer
+## 👨‍💻 About Me
+- 🎓 I am a student majoring in Information Technology
+- 💻 I am interested in Web Development and Software Engineering
+- 🌱 I am currently learning HTML, CSS, JavaScript, C#, SQL Server
+- 📫 Email: bao446403@gmail.com
 
 ---
 
@@ -97,47 +72,19 @@ I enjoy turning ideas into working applications, designing databases, solving pr
 
 ---
 
-🚀
-📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leebao12&theme=tokyonight" />
-
-<br/><br/>
-
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leebao12&theme=tokyonight" /> &nbsp; <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leebao12&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leebao12&theme=tokyonight&hide_border=true" />
-
-</div>
-
-🏆 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Leebao12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%"/>
-
-</div>
-
-🤝 Connect With Me
-
-<div align="center">
-
-I'm always open to learning, collaboration, and new opportunities in software development.
-
-<br/><br/>
-
-<a href="mailto:bao446403@gmail.com"> <img src="https://img.shields.io/badge/Email-bao446403%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-
-<a href="https://github.com/Leebao12"> <img src="https://img.shields.io/badge/GitHub-Leebao12-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<br/><br/>
-
-💬 "Keep learning. Keep building. Keep improving."
-
-</div>
+<p align="center">
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leebao12&theme=tokyonight"
+    alt="Leebao GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leebao12&theme=tokyonight"
+    alt="Leebao Top Languages"
+  />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
