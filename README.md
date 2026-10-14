@@ -242,8 +242,6 @@ https://github.com/Leebao12/Mobile-Application-Development
 ---
 # 🏆 Achievements
 
-# 🏆 Achievements
-
 <table>
 <tr>
 <td align="center">
