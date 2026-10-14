@@ -245,18 +245,14 @@ https://github.com/Leebao12/Mobile-Application-Development
 # 🏆 Achievements
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="./assets/thanh-tich-1.jpg" alt="FAIR XIX 2026" width="500"/><br/><br/>
-
-      <b>National Scientific Conference FAIR XIX (2026)</b><br/>
-
-      <i>Co-author</i> ·
-      <b><i>SFT: Fourier-Guided Starfish Optimization for 3D E-Commerce Packing</i></b><br/>
-
-      <i>Presented at the 19th National IT Conference</i>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="./assets/thanh-tich-1.jpg" alt="FAIR 2026 Research Paper" width="500"/><br/><br/>
+<b>FAIR 2026 — 19th National Scientific Conference</b><br/>
+<i>Co-author</i> · <b><i>SFT: Fourier-Guided Starfish Optimization for 3D E-Commerce Packing</i></b><br/>
+<i>Research paper presented at FAIR 2026</i>
+</td>
+</tr>
 </table>
 
 # 📚 Academic & Development Experience
