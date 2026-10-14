@@ -247,9 +247,14 @@ https://github.com/Leebao12/Mobile-Application-Development
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/thanh-tich-1.jpg" alt="Achievement 1" width="500"/><br/>
+      <img src="./assets/thanh-tich-1.jpg" alt="FAIR XIX 2026" width="500"/><br/><br/>
+
       <b>National Scientific Conference FAIR XIX (2026)</b><br/>
-      *Co-author*.***SFT: Fourier-Guided Starfish Optimization for 3D E-Commerce Packing***.*Presented at the 19th National IT Conference*
+
+      <i>Co-author</i> ·
+      <b><i>SFT: Fourier-Guided Starfish Optimization for 3D E-Commerce Packing</i></b><br/>
+
+      <i>Presented at the 19th National IT Conference</i>
     </td>
   </tr>
 </table>
