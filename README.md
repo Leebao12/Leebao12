@@ -5,7 +5,9 @@
 ### 💻 Information Technology Student | Software Developer
 
 > *Learning every day, building step by step.*
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+L%C3%AA+Quang+B%E1%BA%A3o;Information+Technology+Student;Software+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Leebao12&label=Profile%20Views&color=0e75b6&style=flat" alt="Leebao12" />
