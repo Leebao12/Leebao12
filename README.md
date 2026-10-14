@@ -8,8 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Leebao12&color=58A6FF&style=flat-square&label=Profile+Views)
-&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Leebao12&label=Profile%20Views&color=0e75b6&style=flat" alt="Leebao12" />
 [![GitHub followers](https://img.shields.io/github/followers/Leebao12?label=Followers&style=flat-square&color=58A6FF&logo=github)](https://github.com/Leebao12?tab=followers)
 
 </div>
