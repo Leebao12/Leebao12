@@ -240,6 +240,19 @@ Collection of mobile application exercises and projects developed while studying
 https://github.com/Leebao12/Mobile-Application-Development
 
 ---
+# 🏆 Achievements
+
+# 🏆 Achievements
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/thanh-tich-1.jpg" alt="Achievement 1" width="500"/><br/>
+      <b>My Achievement</b><br/>
+      Short description of this achievement.
+    </td>
+  </tr>
+</table>
 
 # 📚 Academic & Development Experience
 
