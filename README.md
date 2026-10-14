@@ -9,7 +9,8 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Leebao12&label=Profile%20Views&color=0e75b6&style=flat" alt="Leebao12" />
-[![GitHub followers](https://img.shields.io/github/followers/Leebao12?label=Followers&style=flat-square&color=58A6FF&logo=github)](https://github.com/Leebao12?tab=followers)
+&nbsp;
+<img src="https://img.shields.io/github/followers/Leebao12?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="Leebao12"/>
 
 </div>
 
@@ -299,65 +300,11 @@ I want to continuously improve my knowledge in:
 
 ---
 
-# 🇻🇳 Tiếng Việt
-
-> Xin chào, mình là **Lê Quang Bảo**, sinh viên ngành Công nghệ Thông tin tại Trường Đại học Công Thương TP.HCM (HUIT).
-
-| Danh mục | Nội dung |
-|---|---|
-| 💻 Ngôn ngữ | C/C++, C#, Java, Python, Dart, JavaScript, PHP |
-| 🌐 Web | HTML, CSS, JavaScript, ASP.NET MVC, Laravel |
-| 📱 Mobile | Flutter, Dart, Firebase |
-| 🗄️ Cơ sở dữ liệu | SQL Server, MySQL, PostgreSQL |
-| 🧠 Kiến thức | Cấu trúc dữ liệu & Giải thuật, MVC, Lập trình hướng đối tượng |
-| 🤖 Machine Learning | Python, SVM, Random Forest |
-| 🎯 Mục tiêu | Trở thành Kỹ sư Phần mềm chuyên nghiệp |
-
-Mình yêu thích việc xây dựng các ứng dụng thực tế, tìm hiểu công nghệ mới và từng bước cải thiện khả năng lập trình thông qua các đồ án học tập và dự án cá nhân.
-
----
-
-# 🇺🇸 English
-
-> Hi! I'm **Lê Quang Bảo**, an Information Technology student at Ho Chi Minh City University of Industry and Trade (HUIT).
-
-| Category | Details |
-|---|---|
-| 💻 Languages | C/C++, C#, Java, Python, Dart, JavaScript, PHP |
-| 🌐 Web | HTML, CSS, JavaScript, ASP.NET MVC, Laravel |
-| 📱 Mobile | Flutter, Dart, Firebase |
-| 🗄️ Database | SQL Server, MySQL, PostgreSQL |
-| 🧠 Knowledge | Data Structures & Algorithms, MVC, Object-Oriented Programming |
-| 🤖 Machine Learning | Python, SVM, Random Forest |
-| 🎯 Goal | Become a professional Software Engineer |
-
-I enjoy creating practical applications, learning new technologies, and continuously improving my software development skills.
-
----
-
-# 🇨🇳 中文
-
-> 你好！我是 **Lê Quang Bảo（黎光宝）**，目前就读于胡志明市工业与贸易大学（HUIT）信息技术专业。
-
-| 类别 | 技术 |
-|---|---|
-| 💻 编程语言 | C/C++、C#、Java、Python、Dart、JavaScript、PHP |
-| 🌐 Web 开发 | HTML、CSS、JavaScript、ASP.NET MVC、Laravel |
-| 📱 移动开发 | Flutter、Dart、Firebase |
-| 🗄️ 数据库 | SQL Server、MySQL、PostgreSQL |
-| 🧠 基础知识 | 数据结构与算法、MVC、面向对象编程 |
-| 🤖 机器学习 | Python、SVM、Random Forest |
-| 🎯 职业目标 | 成为专业的软件工程师 |
-
-我喜欢开发实际应用、学习新技术，并通过学习项目和个人项目不断提高自己的软件开发能力。
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
 
-<a href="mailto:bao446403@gmail.com">
+<a href="mailto:lebao7893@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -384,3 +331,4 @@ I enjoy creating practical applications, learning new technologies, and continuo
 ⭐ **Thanks for visiting my GitHub profile!**
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
