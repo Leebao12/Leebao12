@@ -287,15 +287,6 @@ https://github.com/Leebao12/Mobile-Application-Development
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leebao12&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
 
 # 🎯 Career Goals
 
